@@ -3,7 +3,7 @@ AMQ Injector
 
 This tool is for pushing text-files into ActiveMQ queues as messages. 
 
-I had a need to populate a message queue with sample message for development/testing purposes. To ease this effort, I dropped the messages into files (one per message) and then wrote this utility to populate an AMQ queue. Pretty basic stuff but it proved to be quite handly.
+I had a need to populate a message queue with sample message for development/testing purposes. To ease this effort, I dropped the messages into files (one per message) and then wrote this utility to populate an AMQ queue. Pretty basic stuff but it proved to be quite handy.
 
 Right now it only supports pushing messages to a queue, but this is easily extended.
 
